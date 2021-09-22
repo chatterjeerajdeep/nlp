@@ -6,3 +6,5 @@ Assignment 1: Getting familiar with formatting strings in python, how to use the
 
 Assignment 2: Getting started with spacy, tokenisation, lemmatisation, pos tagging, phrase matcher.
 
+Assignment 3: Using Parts of speech tags, Named Entity Recognition and displaying them using displacy
+
